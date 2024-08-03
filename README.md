@@ -1,4 +1,4 @@
-- 👋 Hi, I’m studying linguistics and statistics(double-major) at Korea University
+- 🎓 studying linguistics and statistics(double-major) at Korea University
 
 
 <!---
