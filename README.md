@@ -1,7 +1,7 @@
 - 🎓 studying linguistics and statistics(double-major) at Korea University
-
-![seunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=simlin01&theme=dark&show_icons=true)
 <!---
+![seunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=simlin01&theme=dark&show_icons=true)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
