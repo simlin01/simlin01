@@ -1,6 +1,6 @@
 - 🎓 studying linguistics and statistics(double-major) at Korea University
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![seunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
