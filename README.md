@@ -1,4 +1,4 @@
-- 🎓 studying linguistics and statistics(double-major) at Korea University
+- 🎓 studying linguistics and statistics at Korea University
 <!---
 ![seunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=simlin01&theme=dark&show_icons=true)
 
